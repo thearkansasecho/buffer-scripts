@@ -4,6 +4,11 @@ Scripts and tools for managing and generating Buffer posts for **The Arkansas Ec
 
 This repo helps automate and organize content for the Facebook, YouTube, TikTok, and other channels connected through Buffer.
 
+## 🔔 Subscribe to the channel
+
+**[Subscribe on YouTube](https://youtube.com/@thearkansasecho?sub_confirmation=1)**  
+THE ARKANSAS ECHO – Roots. Truth. Legacy.
+
 ## Current Focus
 - Arkansas Black history posts (Little Rock Nine, Daisy Bates, Sister Rosetta Tharpe, Maya Angelou, Hot Springs Echo, etc.)
 - Consistent scheduling (currently two Facebook posts per day)
