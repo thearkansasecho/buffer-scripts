@@ -1,6 +1,6 @@
 # Charlotte Andrews Stephens — narration script
 
-Approved spoken script from the rebuilt short. Status: ready, not posted.
+Approved spoken script from the rebuilt short. Status: posted November 12, 2026, America/Chicago.
 
 She was fifteen. Her teacher got sick. Charlotte Andrews Stephens stepped
 up—and made Little Rock history. In 1869, she became the city’s first

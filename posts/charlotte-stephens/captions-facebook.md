@@ -6,6 +6,7 @@ Did your family attend Stephens Elementary? This is Arkansas history worth knowi
 
 This is The Arkansas Echo.
 
-#ArkansasHistory #BlackHistory #LittleRock
+Sources: CALS Encyclopedia of Arkansas (https://encyclopediaofarkansas.net/entries/charlotte-andrews-1772/); UA Little Rock/KUAR, historian John Kirk (https://www.ualrpublicradio.org/2016-01-30/charlotte-andrews-stephens).
+Portrait: The Crisis, February 1924, p. 181. Public domain.
 
-Portrait: Charlotte Andrews Stephens, The Crisis, February 1924, p. 181. Public domain in the United States.
+#ArkansasHistory #BlackHistory #LittleRock

@@ -4,6 +4,10 @@ All notable changes to this repository are listed here.
 
 ## 2026-11-12
 
+- Posted the Charlotte Andrews Stephens short to Echo YouTube, TikTok, and
+  Facebook. Live links are in `posts/charlotte-stephens/STATUS.md`. Issue #11
+  is marked posted and closed.
+
 - Added a public landing page under `docs/` for GitHub Pages.
 - Added a GitHub Actions workflow that runs `caption_check.py` and `tests/test_tools.py`
   on every push and pull request.

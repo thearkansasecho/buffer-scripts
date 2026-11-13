@@ -27,12 +27,13 @@ Born enslaved. Died the richest Black man in Arkansas. And the streetcars in Pin
 - [YouTube](https://www.youtube.com/watch?v=U2wFtbj-sVA) · [TikTok](https://www.tiktok.com/@the.arkansas.echo/video/7707440330441903373) · [Facebook](https://www.facebook.com/1061522570385312_122122737741330451)
 - Hosted video: [Cloudinary](https://res.cloudinary.com/thyu6cse/video/upload/v1794528250/arkansas-echo/approved-videos/wiley-jones-arkansas-echo-v2.mp4)
 
-### Charlotte Andrews Stephens — ready, not posted
+### Charlotte Andrews Stephens — posted
 
 She was fifteen — and made Little Rock history. In 1869 she became the city’s first Black public-school teacher.
 
-- [Post folder](posts/charlotte-stephens/) — script, captions, sources, and archival portrait
-- YouTube title: *She Was Fifteen—and Made Little Rock History*
+- [Post folder](posts/charlotte-stephens/) — script, captions, sources, cover, and archival portrait
+- [YouTube](https://www.youtube.com/watch?v=Idvea2M_ToI) · [TikTok](https://www.tiktok.com/@the.arkansas.echo/video/7707523491892923662) · [Facebook](https://www.facebook.com/reel/1583548230210847/)
+- Hosted video: [Cloudinary](https://res.cloudinary.com/thyu6cse/video/upload/v1794547659/arkansas-echo/approved-videos/charlotte-stephens-arkansas-echo.mp4)
 
 ## What’s in this repo
 
