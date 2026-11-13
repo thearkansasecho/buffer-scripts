@@ -1,0 +1,50 @@
+# Secrets and credentials — never commit these
+.env
+.env.*
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+*.token
+*.secret
+credentials.json
+secrets.json
+auth.json
+.gh-token
+hosts.yml
+
+# Large media — host the files and link to them instead
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.wav
+*.aiff
+*.aif
+*.flac
+*.aac
+*.mp3
+*.m4a
+*.ogg
+*.wma
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env/
+*.egg-info/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/

@@ -1,0 +1,28 @@
+name: Source correction
+description: Flag a fact, citation, or credit that needs to be fixed.
+title: "[Source] "
+labels: [source-correction]
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for helping keep Echo stories accurate. Point to the file and the source you opened.
+  - type: input
+    id: location
+    attributes:
+      label: Where is the problem?
+      description: Path, story name, or URL (for example posts/wiley-jones/sources.md).
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: What does the file say now?
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should it say, and what source supports the correction?
+      description: Include URLs or page citations you have opened.
+    validations:
+      required: true

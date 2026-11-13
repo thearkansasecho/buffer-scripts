@@ -1,0 +1,50 @@
+name: New story idea
+description: Propose a sourced Echo story. Every claim needs a URL you have opened.
+title: "[Idea] "
+labels: [idea]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This repository is for THE ARKANSAS ECHO only. Do not invent facts.
+        Follow the style guide: no cotton-field imagery, no AI faces for real people, never label an upscale as 4K.
+  - type: input
+    id: subject
+    attributes:
+      label: Subject
+      placeholder: Full name, place, or event, with dates if known
+    validations:
+      required: true
+  - type: textarea
+    id: hook
+    attributes:
+      label: Hook
+      description: One or two sentences you can actually support with the sources below.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Full citations with URLs you have opened. Prefer the Encyclopedia of Arkansas and primary documents.
+      placeholder: |
+        - Encyclopedia of Arkansas, “Name,” https://encyclopediaofarkansas.net/entries/...
+        - Second source with URL
+    validations:
+      required: true
+  - type: textarea
+    id: image
+    attributes:
+      label: Public-domain or rights-cleared image lead
+      description: Name the original publication and license. Say so if none is confirmed yet.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Checks
+      options:
+        - label: Every claim in the hook is in the sources listed.
+          required: true
+        - label: This is Echo-only (no other brands or personal accounts).
+          required: true

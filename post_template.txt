@@ -1,11 +1,19 @@
 Title / Hook
+(YouTube title: 100 characters or fewer.)
 
 One or two short paragraphs with the key historical fact.
-
 Keep it specific to Arkansas places and people.
+End with a genuine question or family hook when it is honest.
 
-#Hashtag1 #Hashtag2 #ArkansasBlackHistory #BlackHistory #ArkansasHistory #BlackHeritage #TheArkansasEcho
+This is The Arkansas Echo.
+
+#Hashtag1 #Hashtag2 #ArkansasHistory #BlackHistory
+TikTok must also include #fyp, plus 3–4 researched niche tags. Do not over-tag.
 
 Sources:
 - Link 1
 - Link 2
+
+Image credit: original publication, year, license.
+If the narration is AI-generated, disclose it.
+Run: python3 caption_check.py

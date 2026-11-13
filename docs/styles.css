@@ -1,0 +1,72 @@
+:root {
+  --ink: #f4e6c8;
+  --muted: #cbb98a;
+  --paper: #1a1410;
+  --panel: #241c16;
+  --gold: #c9a227;
+  --line: #3a2f24;
+  --posted: #7d9a5a;
+  --ready: #c9a227;
+}
+* { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Georgia", "Times New Roman", serif;
+  line-height: 1.55;
+}
+a { color: var(--gold); }
+a:hover { color: #e4c56a; }
+.hero, main, footer {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem;
+}
+.hero { padding-top: 4rem; padding-bottom: 1rem; }
+.eyebrow {
+  letter-spacing: 0.18em;
+  font-size: 0.8rem;
+  color: var(--gold);
+  margin: 0 0 0.75rem;
+}
+h1, h2, h3 { font-weight: 600; line-height: 1.2; }
+h1 { font-size: 2.4rem; margin: 0 0 1rem; }
+h2 { font-size: 1.5rem; margin: 2.5rem 0 1rem; border-bottom: 1px solid var(--line); padding-bottom: 0.4rem; }
+h3 { font-size: 1.15rem; margin: 1.5rem 0 0.5rem; }
+.lede { font-size: 1.15rem; color: var(--muted); }
+.channels { display: flex; flex-wrap: wrap; gap: 0.6rem 1rem; margin-top: 1.5rem; }
+.channels a, .links a {
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  padding: 0.35rem 0.7rem;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+.channels a:hover, .links a:hover { border-color: var(--gold); color: var(--gold); }
+.story {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  padding: 1.25rem 1.25rem 0.5rem;
+  margin: 1.25rem 0;
+}
+.hook { font-style: italic; color: var(--muted); }
+.status {
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.7rem;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  margin: 0 0 0.5rem;
+  padding: 0.15rem 0.45rem;
+  border: 1px solid currentColor;
+}
+.status.posted { color: var(--posted); }
+.status.ready { color: var(--ready); }
+.links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.sources, .ideas { padding-left: 1.2rem; }
+.sources li, .ideas li { margin: 0.35rem 0; }
+.fine, footer { color: var(--muted); font-size: 0.9rem; }
+footer { border-top: 1px solid var(--line); }
