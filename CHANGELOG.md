@@ -2,6 +2,10 @@
 
 All notable changes to this repository are listed here.
 
+## 2026-11-13
+
+- Added `research/youtube-audience-2026-11.md`: a read-only TubeAlfred study of the Echo YouTube channel, comments, comparable Shorts, and topic leads that are not already in issues #1–26.
+
 ## 2026-11-12
 
 - Posted the Daisy Bates short to Echo YouTube, TikTok, and
