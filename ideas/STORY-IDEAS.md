@@ -940,3 +940,65 @@ face.
    `caption_check.py`.
 3. Follow `STYLE-GUIDE.md`. Quality first. If the picture or a striking
    number cannot be sourced, hold the post.
+
+---
+
+## Trend watch — November 13, 2026
+
+Daily trend watch, researched November 13, 2026 (America/Chicago). Checked
+against issues #1–26 and T1–T15 above. Urgent items first.
+
+### T16. URGENT — Barbara Hendricks, opera star from Stephens, turns 78 on November 20
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/27
+
+**URGENT: date-sensitive.** Barbara Hendricks turns 78 on Friday, November 20, 2026 (7 days out).
+
+**Hook (spoken):** "A preacher's daughter from Stephens, Arkansas, graduated college with a degree in math and chemistry. Then she became one of the top opera sopranos on the planet. And she says she was born a refugee in her own country."
+
+**The story:** Barbara Ann Hendricks was born November 20, 1948, in Stephens (Ouachita County), daughter of a Colored Methodist Episcopal minister and a teacher. Her family moved to North Little Rock in summer 1957, and she has said the violence around Central High's desegregation changed her life's direction. She graduated from Horace Mann High School in Little Rock (choir under Art Porter Sr.), earned a BS in mathematics and chemistry from the University of Nebraska–Lincoln in 1969, then a Juilliard voice degree in 1973. Debuts in San Francisco (1974), Paris and London (1982), and the Metropolitan Opera (1987); 100+ classical studio recordings; UNHCR goodwill ambassador from 1987. Her quote, per EOA: "For all intents and purposes, I was born a refugee in my own country—born without the same protection under the law that the Constitution afforded every white girl that day."
+
+## Why now
+Her birthday is November 20 (78th in 2026), per the Encyclopedia of Arkansas: https://encyclopediaofarkansas.net/entries/barbara-ann-hendricks-2748/
+
+## Sources
+- CALS Encyclopedia of Arkansas, "Barbara Ann Hendricks (1948–)." https://encyclopediaofarkansas.net/entries/barbara-ann-hendricks-2748/
+- Stephanie Smittle, "The Anti-Diva," Arkansas Times, July 2021 (cited by EOA). https://arktimes.com/entertainment/2021/07/02/the-adventures-of-barbara-hendricks-lyric-soprano-swedish-citizen-and-refugee-advocate-from-ouachita-county-arkansas
+
+Open both pages again before scripting. She is living: no AI face, ever.
+
+## Image lead
+Wikimedia Commons, "Barbara Hendricks par Claude Truong-Ngoc mars 2016.jpg," licensed CC BY-SA 3.0 (credit "Photo Claude Truong-Ngoc" on screen and in the description; not public domain). https://commons.wikimedia.org/wiki/File:Barbara_Hendricks_par_Claude_Truong-Ngoc_mars_2016.jpg
+Her recordings are copyrighted; don't drop her audio under the voiceover without a license.
+
+## Tags
+#fyp #BlackTikTok #ArkansasHistory #BlackHistory #Opera
+
+### T17. Six Arkansas Tuskegee Airmen inducted into the Arkansas Aviation Hall of Fame, November 12, 2026
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/28
+
+**Hook (spoken):** "This Arkansas pilot got shot down over Italy and was listed missing for eight months. He wasn't hiding. He was leading Italian resistance fighters against the Germans. Last night Arkansas put him in its Aviation Hall of Fame."
+
+**The story:** On Thursday, November 12, 2026, the Arkansas Aviation Hall of Fame inducted six Arkansas Tuskegee Airmen: Dr. Richard Cornelius Caesar (Lake Village), Lt. Col. Clarence "Jamie" Jamison (Little Rock), Maj. Herbert "Bud" Clark (Brinkley), Flight Officer Roy Elmer LaGrone (Pine Bluff), Maj. William "Bill" Mattison (Conway), and 1st Lt. Shelby Foster Westbrook (Marked Tree). The Arkansas Aviation Historical Society says this completes the Hall's recognition of the known Arkansas Tuskegee Airmen pilots.
+
+Strongest single-subject angle: Bud Clark. Per KATV, he landed a damaged P-40 on one wheel (Distinguished Flying Cross), was later shot down over northern Italy, was reported missing eight months, joined the Italian resistance and led fighters against German positions, and walked back into Allied lines on May 4, 1945. Backups: Jamison led his flight on the first WWII combat mission involving Black pilots (June 2, 1943); Westbrook bailed out over Yugoslavia, evaded capture 30 days with Tito's Partisans, then was shut out of commercial flying by discrimination and became an engineer; LaGrone flew the 1,600-mile Berlin escort (March 24, 1945) and later painted the Airmen (24 works in the U.S. Air Force Art Collection).
+
+**Check before scripting:** EOA calls Clark "of Pine Bluff"; KATV says born in Brinkley, raised in Pine Bluff. The Arkansas Aviation Historical Society hosts a Westbrook page under a "2017-inductees" path, which doesn't square with a 2026 induction; confirm with the society before saying "first time."
+
+## Why now
+Induction ceremony held November 12, 2026.
+- Fox16, "Six Arkansas Tuskegee Airmen inducted into Arkansas Aviation Hall of Fame." https://www.fox16.com/news/state-news/six-arkansas-tuskegee-airmen-inducted-into-arkansas-aviation-hall-of-fame/
+- KATV announcement with each inductee's record, September 30, 2026. https://katv.com/news/local/six-arkansan-tuskegee-airmen-to-be-inducted-into-arkansas-aviation-hall-of-fame
+
+## Sources
+- CALS Encyclopedia of Arkansas, "Original Tuskegee Airmen." https://encyclopediaofarkansas.net/entries/original-tuskegee-airmen-5430/
+- CALS Encyclopedia of Arkansas, "Shelby Foster Westbrook (1922–2016)." https://encyclopediaofarkansas.net/entries/shelby-foster-westbrook-20972/
+- Arkansas Money & Politics, October 2, 2026. https://armoneyandpolitics.com/arkansas-aviation-fame-tuskegee-airmen/
+
+## Image lead
+Library of Congress, Toni Frissell Collection: Tuskegee airmen at Ramitelli, Italy, March 1945, marked "No known restrictions on publication." These don't identify Clark or the other inductees, so caption them as "332nd Fighter Group, Italy, 1945," never as a named man. https://www.loc.gov/item/2007675065/ and https://www.loc.gov/item/2007675007/
+No AI faces for any of the six.
+
+## Tags
+#fyp #BlackTikTok #TuskegeeAirmen #ArkansasHistory #BlackHistory
