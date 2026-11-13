@@ -1002,3 +1002,20 @@ No AI faces for any of the six.
 
 ## Tags
 #fyp #BlackTikTok #TuskegeeAirmen #ArkansasHistory #BlackHistory
+
+
+### T18. Arkansas bar exam score-tampering case — Nancie Givens charged November 5, 2026
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/29 Production folder: `posts/bar-exam-scandal/`. Status: scripted, **not posted**, held for review.
+
+**Hook (spoken):** "She ran the office that decides who becomes a lawyer in Arkansas. Prosecutors say she took points off some bar exams and put them on others — for five years. She has pleaded not guilty."
+
+Pending criminal case. Presumption of innocence throughout. Racial-motive claims from social media and unverified X news summaries were not found in court statements, the prosecutor's remarks, or reputable print coverage, and are not in the short. A historical Black-lawyer angle was considered and left out for the same reason.
+
+Preview video (on the box, not in the repo): `/workspace/echo-bar-exam/bar-exam-arkansas-echo-1080x1920.mp4`
+
+## Sources
+- Supreme Court of Arkansas, Joint Press Release, November 5, 2026. https://arcourts.gov/press-releases/arkansas-bar-examination-joint-press-release
+- PDF: https://arcourts.gov/sites/default/files/2026-11/Joint%20Press%20Release%20%2811-05-2026%29_0.pdf
+- KATV, November 5 and November 6, 2026. https://katv.com/news/local/former-arkansas-bar-exam-official-charged-with-65-felonies-in-alleged-score-tampering
+- Full notes: `posts/bar-exam-scandal/sources.md`
