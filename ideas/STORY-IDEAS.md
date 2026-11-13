@@ -1006,7 +1006,7 @@ No AI faces for any of the six.
 
 ### T18. Arkansas bar exam score-tampering case — Nancie Givens charged November 5, 2026
 
-Issue: https://github.com/thearkansasecho/buffer-scripts/issues/29 Production folder: `posts/bar-exam-scandal/`. Status: scripted, **not posted**, held for review.
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/29 Production folder: `posts/bar-exam-scandal/`. Status: **posted** November 13, 2026, 11:13 AM America/Chicago. Live links in `posts/bar-exam-scandal/STATUS.md`.
 
 **Hook (spoken):** "She ran the office that decides who becomes a lawyer in Arkansas. Prosecutors say she took points off some bar exams and put them on others — for five years. She has pleaded not guilty."
 

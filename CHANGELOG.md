@@ -4,6 +4,11 @@ All notable changes to this repository are listed here.
 
 ## 2026-11-13
 
+- Posted the Arkansas bar exam score-tampering short to Echo YouTube,
+  TikTok, and Facebook (Facebook as a regular video; Reels rejected the
+  112-second length). Live links are in `posts/bar-exam-scandal/STATUS.md`.
+  Issue #29 is marked posted and closed.
+
 - Added `posts/ame-1868/`: narration script, sources and licenses, per-platform
   captions, and a designed cover still for the Rev. Nathan Warren / first
   Arkansas AME Annual Conference short (November 19, 1868). Status is
