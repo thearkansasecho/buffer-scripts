@@ -44,6 +44,15 @@ viewers to the free exhibit rather than lifting object photos.
 
 ### T2. Daisy Bates, November 11, 1914, the Bates house, and the 2026 marker
 
+**Status: posted** on November 12, 2026, 11:50 PM America/Chicago, to Echo
+YouTube, TikTok, and Facebook.
+
+- YouTube: https://www.youtube.com/watch?v=7VQ6wL8w28Y
+- TikTok: https://www.tiktok.com/@the.arkansas.echo/video/7707529159060327694
+- Facebook: https://www.facebook.com/reel/29096401833343768/
+- Post log: `posts/daisy-bates/STATUS.md`
+
+
 **Hook:** The date usually given for Daisy Lee Gatson Bates’s birth is
 November 11, 1914, in Huttig (Union County). The National Park Service
 uses that date. The Encyclopedia of Arkansas still prints the year with

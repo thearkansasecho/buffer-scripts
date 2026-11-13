@@ -35,6 +35,15 @@ She was fifteen — and made Little Rock history. In 1869 she became the city’
 - [YouTube](https://www.youtube.com/watch?v=Idvea2M_ToI) · [TikTok](https://www.tiktok.com/@the.arkansas.echo/video/7707523491892923662) · [Facebook](https://www.facebook.com/reel/1583548230210847/)
 - Hosted video: [Cloudinary](https://res.cloudinary.com/thyu6cse/video/upload/v1794547659/arkansas-echo/approved-videos/charlotte-stephens-arkansas-echo.mp4)
 
+
+### Daisy Lee Gatson Bates — posted
+
+Daisy Bates was born on Veterans Day. In 1957, her house in Little Rock was the war room for the Little Rock Nine.
+
+- [Post folder](posts/daisy-bates/) — script, captions, sources, and cover
+- [YouTube](https://www.youtube.com/watch?v=7VQ6wL8w28Y) · [TikTok](https://www.tiktok.com/@the.arkansas.echo/video/7707529159060327694) · [Facebook](https://www.facebook.com/reel/29096401833343768/)
+- Hosted video: [Cloudinary](https://res.cloudinary.com/thyu6cse/video/upload/v1794548975/arkansas-echo/approved-videos/daisy-bates-arkansas-echo.mp4)
+
 ## What’s in this repo
 
 | Path | What it is |

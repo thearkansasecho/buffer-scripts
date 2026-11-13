@@ -4,6 +4,10 @@ All notable changes to this repository are listed here.
 
 ## 2026-11-12
 
+- Posted the Daisy Bates short to Echo YouTube, TikTok, and
+  Facebook. Live links are in `posts/daisy-bates/STATUS.md`. Issue #2
+  is marked posted and closed.
+
 - Posted the Charlotte Andrews Stephens short to Echo YouTube, TikTok, and
   Facebook. Live links are in `posts/charlotte-stephens/STATUS.md`. Issue #11
   is marked posted and closed.
