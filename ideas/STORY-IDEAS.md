@@ -9,10 +9,13 @@ as free to use.
 ## Trending Nov 2026
 
 Timely hooks researched and source-checked on November 12, 2026
-(America/Chicago). Use these first while the exhibits, markers, and calendar
-windows are still live. A second section of already-vetted ideas follows;
-a few subjects appear in both places, with a deeper image-lead note in the
-later entry.
+(America/Chicago), with a second TinyFish scout on November 13, 2026
+that added T11–T15. Use these first while the exhibits, markers, news
+windows, and anniversaries are still live. A later section of already-vetted
+ideas follows; a few subjects appear in both places, with a deeper
+image-lead note in the later entry. T11–T15 were checked against issues
+#1–21 so they would not repeat Wiley Jones, Charlotte Stephens, Daisy
+Bates, the Baugh POW bowl, or the earlier trending and vetted list.
 
 ---
 
@@ -295,6 +298,284 @@ state park carry his name in the town where he started.
 magazine covers are likely still under copyright. The Arkansas City
 museum or John H. Johnson Park may have a rights-cleared image after
 permission. Never generate his face.
+
+---
+
+
+### T11. Calvin White Jr. — first African American chancellor of Arkansas State University
+
+**Issue:** [#22](https://github.com/thearkansasecho/buffer-scripts/issues/22)
+
+**Hook:** A historian of Black life in the Arkansas and Mississippi Delta
+is now the first African American chancellor of Arkansas State University.
+The ASU System Board of Trustees appointed Calvin White Jr. on September
+28, 2026, after he had served as interim chancellor since July. He was
+already the university’s first African American provost. Talk Business &
+Politics published a new interview with him on November 4, 2026.
+
+**Sources (verified, pages opened November 13, 2026):**
+
+- Arkansas State University System, “ASU System Board Approves Chancellor
+  Appointments at A-State, ASU-Newport.” Official announcement of the
+  September 28, 2026 appointments. Calls White “a native Arkansan with
+  deep ties to the Delta” and a historian whose research focuses on the
+  African American experience in the Arkansas and Mississippi Delta.
+  Fall enrollment is given as 18,775 students.
+  https://www.astate.edu/about/news/asu-system-board-approves-chancellor-appointments-at-a-state-asu-newport.html
+- Antoinette Grajeda, “Arkansas State University appoints its first
+  African-American chancellor,” Arkansas Advocate, September 28, 2026.
+  https://arkansasadvocate.com/2026/09/28/arkansas-state-university-appoints-its-first-african-american-chancellor/
+- Roby Brock, “A-State’s new chancellor Dr. Calvin White Jr. has a full
+  agenda,” Talk Business & Politics, November 4, 2026 (5:00 p.m. UTC;
+  11:00 a.m. America/Chicago).
+  https://talkbusiness.net/2026/11/a-states-new-chancellor-dr-calvin-white-jr-has-a-full-agenda/
+- Journal of Blacks in Higher Education, “Calvin White Jr. Named the
+  First Black Chancellor of Arkansas State University,” October 5, 2026.
+  https://jbhe.com/2026/10/calvin-white-jr-named-the-first-black-chancellor-of-arkansas-state-university/
+- University of Arkansas news, “University of Arkansas Press Publishes
+  History of Church of God in Christ,” October 4, 2012, confirming the
+  title *The Rise to Respectability: Race, Religion, and the Church of
+  God in Christ* (University of Arkansas Press, 2012).
+  https://news.uark.edu/articles/19321/university-of-arkansas-press-publishes-history-of-church-of-god-in-christ
+
+**Fact conflicts:** Talk Business calls him “a native of Stuttgart, this
+son of the Delta.” A Democrat-Gazette headline from October 18, 2026,
+calls him a “Little Rock native,” and an earlier search snippet from
+that article mentions him as a senior at Stuttgart High in 1992. The
+official A-State release does not choose a hometown; it says “a native
+Arkansan with deep ties to the Delta.” Do not declare a birthplace until
+the Democrat-Gazette High Profile piece is opened in full. JBHE’s older
+Department of Education enrollment figures (about 10,000 undergraduates
+and 5,700 graduate students) are lower than A-State’s official fall 2026
+figure of 18,775; prefer the university’s own number, or skip enrollment
+in the voiceover. Say “first African American chancellor of Arkansas
+State University,” not of Arkansas higher education — the Advocate itself
+links a 2022 story on the University of Arkansas system’s first Black
+chancellor. Talk Business says the veterinary college’s first class was
+“anticipated in fall 2026”; the official release says the college
+“launched” in fall 2026. Prefer the official wording.
+
+**Public-domain image lead:** Not confirmed. White is living. Never
+generate an AI face. Official appointment photographs are courtesy of
+Arkansas State University and are not free to reuse without permission.
+A campus exterior, a cleared still from the university, or a shot of the
+2012 book (with permission) is safer than lifting a press portrait.
+
+---
+
+### T12. Fraternal Historic Cemetery’s 2026 preservation award, presented November 12
+
+**Issue:** [#23](https://github.com/thearkansasecho/buffer-scripts/issues/23)
+
+**Hook:** In 1888, Black fraternal orders in Little Rock petitioned the
+city for burial ground at Oakland. They got fourteen acres, later named
+Fraternal Cemetery, and placed a granite marker that read, “Free American
+Citizens.” That same cemetery — officially Oakland & Fraternal Historic
+Cemetery Park — was named a 2026 Greater Little Rock Preservation Award
+winner for marker cleaning and the discovery of previously buried stones,
+with support from the Black History Commission of Arkansas and the Curtis
+H. Sykes Memorial Grant. The awards were scheduled for November 12, 2026,
+at Mosaic Templars Cultural Center.
+
+**Sources (verified, pages opened November 13, 2026):**
+
+- Quapaw Quarter Association, “Quapaw Quarter Association Announces
+  Winners of Its 2026 Greater Little Rock Preservation Awards,” October
+  20, 2026. Award of Merit for Institution-Led Restoration. Names Friends
+  of Oakland and Fraternal Historic Cemetery board members, the city
+  board, Representative Denise Jones Ennett, sexton John Rains, sexton
+  assistant David McDowell, and volunteers.
+  https://quapaw.com/news/2026/oct/20/quapaw-quarter-association-announces-winners-its-2/
+- 501 LIFE, “Quapaw Quarter announces winners,” October 19, 2026.
+  https://501lifemag.com/quapaw-quarter-announces-winners/
+- CALS Encyclopedia of Arkansas, “Oakland-Fraternal Cemetery.” In 1888
+  African American fraternal orders petitioned the city; the burial
+  ground was named Fraternal Cemetery in 1893; Mosaic Templars
+  co-founder John E. Bush is among those buried there. Last updated
+  February 26, 2026.
+  https://encyclopediaofarkansas.net/entries/oakland-fraternal-cemetery-7383/
+- CALS Encyclopedia of Arkansas, “Curtis Henry Sykes (1930–2007).” The
+  grant is named for the North Little Rock educator and historian who
+  chaired the Black History Commission of Arkansas and pushed Act 326 of
+  1997, requiring African American history in Arkansas public schools.
+  https://encyclopediaofarkansas.net/entries/curtis-henry-sykes-7895/
+
+**Fact conflicts:** None found on the 1888 petition, the 1893 name, or
+the 2026 award itself. John E. Bush already appears in the vetted Mosaic
+Templars idea; keep this short on the cemetery, the award, and the Sykes
+grant, not a second Bush biography. The announcement said the ceremony
+would be held November 12, 2026; a post-event recap was not opened, so
+do not claim in the script that a specific person “accepted the award
+last night” unless that recap is in hand.
+
+**Public-domain image lead:** The “Free American Citizens” marker and
+other historic stones are on the grounds; a new photograph needs the
+photographer’s permission. Look for a pre-1930 published view of the
+gate or marker. EOA / courtesy photographs are not automatically
+cleared. Do not invent faces of the dead, and do not treat a 2026 award
+photo as public domain.
+
+---
+
+### T13. Haven of Rest Cemetery — the state’s largest Black cemetery, and a 2026 fight over who will care for it
+
+**Issue:** [#24](https://github.com/thearkansasecho/buffer-scripts/issues/24)
+
+**Hook:** Haven of Rest, on West 12th Street in Little Rock, is the
+largest African American cemetery in Arkansas. Daisy Bates, Scipio A.
+Jones, and Joseph A. Booker, the first president of Arkansas Baptist
+College, are buried there, along with a memorial for the boys who died
+in the 1959 fire at the Negro Boys Industrial School in Wrightsville.
+In June 2026 the Arkansas Insurance Department sued the current operator
+over unpaid permit fees and a short permanent-maintenance fund. In
+October, the state asked a court to appoint a receiver. This is not a
+second Daisy Bates short. It is a story about a burial ground, and
+whether it will be cared for.
+
+**Sources (verified, pages opened November 13, 2026):**
+
+- CALS Encyclopedia of Arkansas, “Haven of Rest Cemetery.” Last updated
+  October 7, 2026. Established in the early 1900s; more than eighteen
+  acres; listed by the Arkansas Cemetery Board as a historical cemetery.
+  Notes the June 2026 lawsuit against Percy Webb / Finality LLC, the
+  2001 receivership, and the 2008 founding of Friends of Haven of Rest
+  Cemetery.
+  https://encyclopediaofarkansas.net/entries/haven-of-rest-cemetery-14603/
+- Brett Barrouquere, “State seeks receiver for historic Haven of Rest
+  cemetery in Little Rock,” Arkansas Democrat-Gazette, October 6, 2026.
+  The lede, opened the same day as this scout, says regulators are
+  seeking to take over the cemetery, alleging disrepair, unpaid permit
+  fees, and neglected maintenance. The rest of the article was behind
+  a paywall.
+  https://www.arkansasonline.com/news/2026/oct/06/state-seeks-receiver-for-historic-haven-of-rest/
+- Brett Barrouquere, “Friends of historic Black cemetery in Little Rock
+  want to see it cleaned up,” Arkansas Democrat-Gazette, May 3, 2026.
+  Lede and May 1, 2026 photo caption opened; full text was paywalled.
+  https://www.arkansasonline.com/news/2026/may/03/friends-of-historic-black-cemetery-in-little-rock/
+
+**Fact conflicts / cautions:** THV11 also reported in October 2026 that
+the owner was pushing back as the state sought a receiver; TinyFish
+could not fetch that page (bot-blocked). Do not characterize the owner’s
+defense until that article, or the court filing, is opened. This is an
+active dispute. Stick to documented filings and published ledes; do not
+take sides in the voiceover. Bates and Jones already have their own
+ideas in this archive; name them as burials, then spend the short on the
+cemetery and on under-told burials such as Booker and the Wrightsville
+memorial. A YouTube Short circulating in late October 2026 used the
+headline “Daisy Bates’s Cemetery Is Falling Apart,” which is a public
+signal, not a source of facts.
+
+**Public-domain image lead:** Not confirmed. Democrat-Gazette photographs
+by Colin Murphey (May 1, 2026) are copyrighted. Historic portraits of
+people buried there are a separate rights question, and mid-century
+images are likely still protected. A rights-cleared photograph of the
+gates, a historic marker, or the Wrightsville memorial — never an AI
+face — is the path if a still is needed. Do not film or post close
+images of recent graves without permission.
+
+---
+
+### T14. The Canfield violence of December 12, 1896 — 130 years this December
+
+**Issue:** [#25](https://github.com/thearkansasecho/buffer-scripts/issues/25)
+
+**Hook:** They called it a “race war” in the papers. What the Encyclopedia
+of Arkansas documents at Canfield, in Lafayette County, on December 12,
+1896, is a white mob firing into the dwellings of Black workers at the
+Canfield Lumber Company after those workers ignored a warning to leave
+the mill. Twelve were wounded, some apparently critically, and they were
+left without medical care until morning. December 12, 2026, is the 130th
+anniversary. Tell it as an expulsion of Black mill hands, not as a
+two-sided battle.
+
+**Sources (verified, pages opened November 13, 2026):**
+
+- CALS Encyclopedia of Arkansas, “Canfield Race War of 1896,” by Nancy
+  Snell Griffith. Last updated August 9, 2026. The entry explains that
+  “race war,” a period newspaper term, is understood today as whites
+  rioting against African Americans. It cites the *Kansas City Daily
+  Journal* and the *Wichita Daily Eagle*, both December 18, 1896, plus
+  the *Daily Huronite* of December 19 and the Sacramento *Record-Union*
+  of December 27.
+  https://encyclopediaofarkansas.net/entries/canfield-race-war-of-1896-7391/
+- Arkansas State Archives / Arkansas Heritage, “Chronicling America
+  Topic Guides: Race Riots in Arkansas.” Lists “1896 Canfield Race War”
+  among significant dates and explains that period “race war” language
+  referred to white violence against Black people, often with an
+  economic motive. PDF opened November 13, 2026.
+  https://www.arkansasheritage.com/docs/default-source/arkansas-state-archives-documents/tgraceriotsinarkansas.pdf?sfvrsn=21d1283f_2
+
+**Fact conflicts:** A Magnolia Reporter “Arkansas History for December
+12” item (December 12, 2025) claims Black workers were refusing to work
+without pay already owed, that “white bosses and armed posses”
+confronted them, and that “the deaths of multiple Black workers” and a
+later manhunt followed. That page states that “ChatGPH has collected
+this data.” EOA does not confirm deaths, unpaid wages, or a manhunt. Do
+**not** use the Magnolia wording. Open the 1896 newspapers EOA cites
+before locking a casualty line; TinyFish was blocked from Chronicling
+America, so those scans were not re-read in this scout. EOA also notes a
+similar shooting the next night at Frostville, where nine Black workers
+were wounded with birdshot, and a later December 27 report of further
+violence after drinking. Keep those as separate, sourced beats.
+
+**Public-domain image lead:** The December 1896 newspaper pages
+themselves, published in the United States before 1930, are the cleanest
+visual path once a scan is in hand. Do **not** use cotton-field imagery;
+this is a lumber-mill story. No faces of the wounded were confirmed.
+
+---
+
+### T15. Arkansas’s first AME Annual Conference — November 19, 1868, 158 years this week
+
+**Issue:** [#26](https://github.com/thearkansasecho/buffer-scripts/issues/26)
+
+**Hook:** On November 19, 1868 — 158 years ago this week — Arkansas held
+its first African Methodist Episcopal Annual Conference. The man at the
+center of the state’s earliest AME work, the Reverend Nathan Warren, had
+been brought to Arkansas enslaved in 1819, later lived in Little Rock as
+a free confectioner, and had to leave the state when white agitators
+helped push a ban on free Black residents. He came back during the Civil
+War as a minister. Bethel AME in Little Rock grew from that work, and
+so did Bethel Institute, now Shorter College.
+
+**Sources (verified, pages opened November 13, 2026):**
+
+- CALS Encyclopedia of Arkansas, “African Methodist Episcopal Church.”
+  Gives the conference date as November 19, 1868, under Bishop James A.
+  Shorter; by an 1890 census, 333 churches and 27,956 members in
+  Arkansas. Last checked against the live entry on November 13, 2026.
+  https://encyclopediaofarkansas.net/entries/african-methodist-episcopal-church-5358/
+- Jane Wilkerson, “African American Branches of the Methodist Church in
+  Arkansas,” Arkansas State Archives / Arkansas Heritage, December 8,
+  2021. Confirms that Arkansas’s first Annual Conference was held in
+  November 1868 and sketches Warren’s role in establishing early
+  congregations.
+  https://www.arkansasheritage.com/blog/dah/2021/12/08/african-american-branches-of-the-methodist-church-in-arkansas
+
+**Fact conflicts:** EOA says Warren lived in Little Rock as a freedman
+and confectioner until 1856, then went to Washington, D.C., until 1863.
+The Heritage blog says he ran the shop until 1857 and took his family to
+Xenia, Ohio, before returning after Union forces occupied Little Rock in
+1863. Heritage also says he established Bethel AME in Little Rock and
+Carter’s Chapel in Helena in 1866, and that “in 1868, the A.M.E. Church
+was organized in Arkansas under Reverend Nathan Warren.” EOA describes
+an earlier congregation after the 1863 return, a church later known as
+Bethel that was dedicated as Campbell Chapel in 1875, and Bethel
+Institute founded in 1886. Use EOA for the November 19, 1868 date and
+flag the departure year, the northern city, and the 1866 / 1868 /
+1875 / 1886 sequence before writing a script. A Magnolia Reporter
+on-this-day item repeats the November 19 date but is labeled as
+ChatGPT-collected; do not treat it as an independent source. Scipio
+Jones, Daisy Bates, and several of the Little Rock Nine had AME ties,
+per EOA; mention that only as context. Those people already have their
+own ideas in this archive.
+
+**Public-domain image lead:** Not confirmed in hand. Look for a pre-1930
+published view of Bethel / Campbell Chapel at 9th and Broadway, a period
+conference notice, or a documented still of Warren after checking
+Margaret Smith Ross, “Nathan Warren: A Free Negro of the Old South,”
+*Arkansas Historical Quarterly* 15 (Spring 1956). Do not invent Warren’s
+face, and do not lean on a modern church photograph without permission.
 
 ---
 
