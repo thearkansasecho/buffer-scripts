@@ -529,6 +529,11 @@ this is a lumber-mill story. No faces of the wounded were confirmed.
 
 **Issue:** [#26](https://github.com/thearkansasecho/buffer-scripts/issues/26)
 
+**Status: scripted, ready-for-review, not posted.** Post log: `posts/ame-1868/`.
+Built November 13, 2026 (America/Chicago). The finished preview is on the box
+at `/workspace/echo-ame-1868/`; it has not been posted, scheduled, or uploaded
+to Buffer.
+
 **Hook:** On November 19, 1868 — 158 years ago this week — Arkansas held
 its first African Methodist Episcopal Annual Conference. The man at the
 center of the state’s earliest AME work, the Reverend Nathan Warren, had
@@ -570,12 +575,16 @@ Jones, Daisy Bates, and several of the Little Rock Nine had AME ties,
 per EOA; mention that only as context. Those people already have their
 own ideas in this archive.
 
-**Public-domain image lead:** Not confirmed in hand. Look for a pre-1930
-published view of Bethel / Campbell Chapel at 9th and Broadway, a period
-conference notice, or a documented still of Warren after checking
-Margaret Smith Ross, “Nathan Warren: A Free Negro of the Old South,”
-*Arkansas Historical Quarterly* 15 (Spring 1956). Do not invent Warren’s
-face, and do not lean on a modern church photograph without permission.
+**Public-domain image lead:** The November 13, 2026 preview uses only
+public-domain stills: A. Ruger’s 1871 bird’s-eye view of Little Rock
+(LOC 73693338); Detroit Publishing’s Markham Street, 1900–1910 (LOC
+2016815280); A. R. Waud’s “Mustered out,” *Harper’s Weekly*, May 19, 1866
+(LOC 2009630216); and the 1876 “Bishops of the A.M.E. Church” lithograph
+(LOC 98501269), including the labeled oval of Bishop James A. Shorter.
+The Encyclopedia of Arkansas portrait of Warren is credited “Courtesy of
+James ‘Butch’ Warren” and was not used. Do not invent Warren’s face, and
+do not use a modern photograph of Bethel’s later 16th Street building as
+if it were the 1875 chapel.
 
 ---
 

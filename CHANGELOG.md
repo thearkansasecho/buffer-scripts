@@ -4,6 +4,12 @@ All notable changes to this repository are listed here.
 
 ## 2026-11-13
 
+- Added `posts/ame-1868/`: narration script, sources and licenses, per-platform
+  captions, and a designed cover still for the Rev. Nathan Warren / first
+  Arkansas AME Annual Conference short (November 19, 1868). Status is
+  ready-for-review, not posted. Issue #26 is labeled scripted. The MP4 stays
+  on the box and is not committed.
+
 - Added `research/youtube-audience-2026-11.md`: a read-only TubeAlfred study of the Echo YouTube channel, comments, comparable Shorts, and topic leads that are not already in issues #1–26.
 
 ## 2026-11-12
