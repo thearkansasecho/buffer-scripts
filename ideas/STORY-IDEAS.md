@@ -1019,3 +1019,74 @@ Preview video (on the box, not in the repo): `/workspace/echo-bar-exam/bar-exam-
 - PDF: https://arcourts.gov/sites/default/files/2026-11/Joint%20Press%20Release%20%2811-05-2026%29_0.pdf
 - KATV, November 5 and November 6, 2026. https://katv.com/news/local/former-arkansas-bar-exam-official-charged-with-65-felonies-in-alleged-score-tampering
 - Full notes: `posts/bar-exam-scandal/sources.md`
+
+
+## Trend watch — November 14, 2026
+
+### T19. URGENT — Samuel S. Taylor, the Black WPA interviewer behind Arkansas's slave narratives, born 140 years ago on November 21
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/30
+
+**URGENT: date-sensitive.** Saturday, November 21, 2026 is the 140th anniversary of Taylor's birth (7 days out).
+
+**Hook (spoken):** "In the 1930s the government sent mostly white interviewers to ask formerly enslaved people about slavery. In Arkansas, one Black man asked the questions too, and historians call his interviews some of the best in the whole collection."
+
+**The story:** Samuel Shinkle Taylor was born November 21, 1886, in Cincinnati. He moved to Little Rock in 1927, headed Philander Smith's education department (1927–1929), and in 1937–38 collected and wrote 129 interviews of African Americans in Arkansas for the Federal Writers' Project ex-slave narratives. He was one of only two African American interviewers hired in Arkansas. Historian John Blassingame called him "the most skillful of the WPA interviewers." Genealogy angle: these narratives name people, plantations, and counties, and anyone can search them free at the Library of Congress.
+
+#### Why now
+140th birthday on November 21, 2026, per his birth date in the Encyclopedia of Arkansas. https://encyclopediaofarkansas.net/entries/samuel-shinkle-taylor-4030/
+
+#### Sources
+- CALS Encyclopedia of Arkansas, "Samuel Shinkle Taylor." https://encyclopediaofarkansas.net/entries/samuel-shinkle-taylor-4030/
+- Library of Congress, "Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938." https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/
+
+#### Image lead
+Scans of Taylor's typed Arkansas interview pages in the LOC Born in Slavery collection (WPA work, public domain; credit LOC). No verified photo of Taylor in hand: do not generate an AI face. Check EOA's media credits for a licensable portrait.
+
+#### Tags
+#fyp #BlackTikTok #ArkansasHistory #Genealogy #SlaveNarratives
+
+### T20. Old State House slave auctions — state historian's report counts 414 enslaved people sold on the grounds, 1836–1861
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/31
+
+**Hook (spoken):** "The Old State House in Little Rock is on every postcard. The part the tour skipped: a state historian's report says 414 enslaved people were sold right there. And the tour guide who first dug it up says her bosses told her to stay quiet."
+
+**The story:** Former Old State House tour guide Tessa Wahlquist researched slave auctions on the old Capitol grounds (Arkansas Times, August 2026) and said supervisors pressured her to keep quiet. Division of Arkansas Heritage director Marty Ryall then asked historian Revis Edmonds to look into it. Edmonds' September 2026 report: "the Old State House was the site where 414 slaves were sold at auction between 1836 and 1861." The Pulaski County Courthouse ran out of the building during those years and held the auctions. State Archives reviewers (David Ware, Julienne Crawford) agreed the sales happened but cautioned against citing an exact number. Script it as "at least hundreds; the report counts 414" and keep it respectful, not sensational.
+
+#### Why now
+Confirmation reported Oct 30–31, 2026 and still circulating (501 Daily, Nov 4). https://www.wol.com/2026/10/31/researchers-confirm-slave-sales-occurred-at-old-state-house-museum-site/
+
+#### Sources
+- Arkansas Times, August 17, 2026 (Wahlquist's original findings). https://arktimes.com/arkansas-blog/2026/08/17/a-researcher-at-the-old-state-house-discovered-slave-auctions-had-once-taken-place-on-museum-grounds-her-bosses-told-her-to-stay-silent
+- World Online, October 31, 2026 (Edmonds report and State Archives review). https://www.wol.com/2026/10/31/researchers-confirm-slave-sales-occurred-at-old-state-house-museum-site/
+- CALS Encyclopedia of Arkansas, "Old State House." https://encyclopediaofarkansas.net/entries/old-state-house-2111/
+- 501 Daily, November 4, 2026. https://501daily.com/a/research-confirms-enslaved-people-were-sold-at-little-rocks-old-state-house-site
+
+#### Image lead
+Historic American Buildings Survey photos of the Old State House at the Library of Congress (federal work, public domain): https://www.loc.gov/pictures/search/?q=Old%20State%20House%20Little%20Rock&co=hh . Plus our own real footage of the building today. No cotton imagery, no AI-generated auction scenes presented as real.
+
+#### Tags
+#fyp #BlackTikTok #ArkansasHistory #BlackHistory #LittleRock
+
+### T21. Hubert "Geese" Ausbie (1938–2026) — Philander Smith star who became the Globetrotters' Clown Prince
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/32
+
+**Hook (spoken):** "Over 200 colleges wanted him. He picked a small HBCU in Little Rock. Then he turned down the Chicago Cubs to become the Clown Prince of Basketball."
+
+**The story:** Hubert "Geese" Ausbie died Sunday, November 8, 2026, at 88. Born in Crescent, Oklahoma, he chose Philander Smith College over 200+ scholarship offers, partly because his brother Attaway was already there. As a senior (1959–60) he was the nation's third-leading scorer. He turned down a Chicago Cubs contract and NBA interest, was picked from 500+ players at a 1961 Globetrotters open tryout, and played 24 years in 100+ countries. He got the name "Geese" because the team already had a famous "Goose" from Arkansas, Reece "Goose" Tatum. He met his wife Awilda at Philander Smith. Arkansas Black Hall of Fame, 1995.
+
+#### Why now
+Death announced by the Globetrotters November 9, 2026; still being shared on X Nov 12–13. https://www.arkansasonline.com/news/2026/nov/09/hubert-geese-ausbie-former-philander-smith-player/
+
+#### Sources
+- CALS Encyclopedia of Arkansas, "Geese Ausbie." https://encyclopediaofarkansas.net/entries/geese-ausbie-2484/
+- Arkansas Black Hall of Fame, 1995 honoree page. https://arblackhalloffame.org/honorees/1995/ausbie/
+- Arkansas Democrat-Gazette, November 9, 2026. https://www.arkansasonline.com/news/2026/nov/09/hubert-geese-ausbie-former-philander-smith-player/
+
+#### Image lead
+No public-domain photo confirmed. Real photos exist (Democrat-Gazette 2017 jersey retirement; EOA media items credited to their sources), so license or get permission; check Philander Smith yearbooks/archives for 1956–60 team photos. Never an AI face.
+
+#### Tags
+#fyp #BlackTikTok #HBCU #HarlemGlobetrotters #ArkansasHistory
