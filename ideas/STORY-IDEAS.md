@@ -1090,3 +1090,186 @@ No public-domain photo confirmed. Real photos exist (Democrat-Gazette 2017 jerse
 
 #### Tags
 #fyp #BlackTikTok #HBCU #HarlemGlobetrotters #ArkansasHistory
+
+## Trend watch — November 14, 2026 (afternoon)
+
+Afternoon trend watch, researched November 14, 2026 (America/Chicago). Checked U.S. trends on X (woeid 23424977), X news, Arkansas and Black-history news from November 8–14, genealogy releases, and mid-to-late November anniversaries. X story summaries were treated as unverified leads only; every fact below was opened on a source page. Already-filed ideas were not repeated, including the bar exam short, Sister Rosetta Tharpe, AME 1868, and issues #14 (Pankey), #27 (Barbara Hendricks), #28 (Tuskegee Airmen), #30 (Samuel S. Taylor), #31 (Old State House), and #32 (Geese Ausbie). Two already-filed people have fresh date hooks this fortnight: John E. Bush's 170th birthday is today (November 14, 1856), which can be used with issue #7 (Mosaic Templars); Josephine Pankey's birthday is Monday, November 17 (issue #14).
+
+---
+
+### T22. Arkansas women of the 6888th — Six Triple Eight section in "A Soldier's Story," opened November 10, 2026
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/33
+
+This is distinct from issue #1 (Sgt. Ulysses Grant Baugh's POW bowl in the same exhibit). Do not collapse the two stories.
+
+**Hook (spoken):** "They were the only all-Black, all-woman Army battalion sent overseas in World War II. Their motto was 'No Mail, Low Morale.' The Army Women's Foundation lists 16 of them under Arkansas — and Little Rock just put that story on the wall."
+
+**The story:** Mosaic Templars Cultural Center in Little Rock opened "A Soldier's Story" on November 10, 2026. It runs through March 20, 2027, and focuses on African American military service, especially Arkansas veterans. Executive Director Key Fletcher told THV11 she is especially excited about the section on the 6888th Central Postal Directory Battalion — the Six Triple Eight — "because it focuses on women and the women who understood the importance of mail." The Army Women's Foundation, which inducted the battalion into the Army Women's Hall of Fame in 2016, describes it as the first and only all-Black female unit deployed overseas during WWII, active 1945–1946, about 855 women under Maj. Charity Adams (later Charity Adams Earley), motto "No Mail, Low Morale," processing an average of 65,000 pieces of mail per shift. Under Arkansas, the Foundation lists 16 soldiers: Rose Marie Anderson, Virgie L. Caywood, Ella Mae Davis, Vernice Eloweiss Evans, Rebecca Adella Glass, Mattie L. Griffin, Emma Jean Jacobs, Torrine Delores Presley, Cora Lee Richardson, Lyria Earnestine Tate, Ella B. Tatum, Ruby Lee Ward, Estelle Bernice Williams, Bessie M. Willis, Anna Mae Wilson, and Evelyn M. Young. A February 2025 Arkansas Democrat-Gazette feature on Osceola daughters of 6888th veterans is a reporting lead; reopen that page before naming hometowns in a script.
+
+#### Why now
+The exhibit opened Tuesday, November 10, 2026, and is still in its first week (America/Chicago). It remains on view through March 20, 2027, per THV11, KUAR, and the museum's exhibit page.
+
+#### Sources
+- Lauren Harper, THV11, November 10, 2026. https://www.thv11.com/article/news/local/mosaic-templars-african-american-military-service/91-6f7728e9-abdc-453e-92f1-c90e01f1d2e9
+- Nathan Treece, Little Rock Public Radio / KUAR, November 10, 2026. https://www.ualrpublicradio.org/local-regional-news/2026-11-10/mosaic-templars-cultural-center-opens-a-soldiers-story
+- Mosaic Templars Cultural Center, current exhibits. https://www.arkansasheritage.com/mosaic-templars-cultural-center/exhibits/current-exhibits
+- U.S. Army Women's Foundation, "Women of the 6888th Central Postal Directory Battalion," including the Arkansas roster. https://www.awfdn.org/hall-of-fame-and-special-recognition-awards/us-army-womens-hall-of-fame-inductees/women-of-the-6888th-battalion/
+- National Archives, photograph of WAC officers inspecting the 6888th, February 15, 1945, NAID 531249. https://catalog.archives.gov/id/531249
+
+#### Image lead
+Use U.S. Army / National Archives photographs of the 6888th (federal works, public domain). A clear lead is NARA NAID 531249 / local ID 111-SC-200791, Maj. Charity Adams inspecting the unit in England on February 15, 1945. Fact conflict on that frame: the original caption names the second officer as Capt. Abbie N. Campbell; the Army Center of Military History later identified her as Capt. Mary Kearney. Do not name the second officer unless that conflict is acknowledged. Do not generate AI faces for the Arkansas women. Family artifacts in the exhibit are loans; do not photograph them for a post without the museum's and the families' permission.
+
+#### Fact conflicts
+- One secondary write-up said the exhibit runs until March 27, 2027. THV11, KUAR, and the museum's exhibit page say March 20, 2027. Use March 20.
+- Hometowns for the 16 Arkansas-listed women were not re-verified from a page opened this turn. Reopen the Democrat-Gazette Osceola feature before stating towns.
+
+#### Tags
+#fyp #BlackTikTok #ArkansasHistory #WWII #SixTripleEight
+
+---
+
+### T23. Shirley N. Weber, from Hope, is California's first Black secretary of state — inducted into the Arkansas Black Hall of Fame October 24, 2026
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/34
+
+**Hook (spoken):** "She was born to sharecroppers in Hope, Arkansas. Her father left the state after a lynch mob threatened him. She grew up to become California's first Black secretary of state."
+
+**The story:** Shirley Nash Weber, Ph.D., was born in Hope during Jim Crow, one of eight children of David and Mildred Nash. The official California secretary of state biography says her father, a sharecropper, left Arkansas after being threatened by a lynch mob, did not get to vote until he was in his 30s, and that her grandfather never voted under the South's pre-1965 suppression of Black voters. The family moved to California when she was three. She earned her bachelor's, master's, and doctorate from UCLA by age 26, taught in the Department of Africana Studies at San Diego State University for 40 years, served four terms in the California State Assembly, and was nominated by Gov. Gavin Newsom on December 22, 2020, then sworn in as California's 32nd secretary of state on January 29, 2021. Voters elected her to a full term on November 8, 2022. The official biography calls her California's first Black secretary of state and only the fifth African American to serve as a state constitutional officer in California's history. She was inducted into the Arkansas Black Hall of Fame on October 24, 2026, at Robinson Center in Little Rock; the Democrat-Gazette's November 1 recap shows her there with family, including California State Sen. Akilah Weber Pierson. As of November 14, 2026, the official secretary of state biography still presents her as the sitting secretary of state.
+
+#### Why now
+Inducted into the Arkansas Black Hall of Fame on October 24, 2026; the Democrat-Gazette recap ran November 1 and is still a fresh local hook this week.
+
+#### Sources
+- California Secretary of State, official biography of Shirley N. Weber, Ph.D. (page opened November 14, 2026). https://www.sos.ca.gov/administration/about
+- Helaine Williams, "Arkansas Black Hall of Fame honors 7 inductees," Arkansas Democrat-Gazette, November 1, 2026. https://www.arkansasonline.com/news/2026/nov/01/arkansas-black-hall-of-fame-honors-7-inductees/
+- Talk Business & Politics, "Arkansas Black Hall of Fame announces 2026 inductees," September 8, 2026. https://talkbusiness.net/2026/09/arkansas-black-hall-of-fame-announces-2026-inductees/
+- Robert Fikes, "Shirley Nash Weber (1948– )," BlackPast.org, September 5, 2021. https://blackpast.org/african-american-history/shirley-nash-weber-1948/
+
+#### Image lead
+Weber is living. Never generate an AI face. No public-domain portrait is confirmed. An official office photograph appears on the California secretary of state site; do not treat that as free to use without checking the state's terms or getting permission. The Democrat-Gazette induction photos are copyrighted.
+
+#### Fact conflicts
+- Talk Business (Sept. 8) said "six Arkansans" would be honored; the Democrat-Gazette (Nov. 1) said "7 inductees." The difference is that Becky and Darrell Finney were listed as one couple in the announcement and as two people in the recap. For this story, just say she was inducted with the 2026 class on October 24.
+- Do not state unofficial 2026 vote totals. The official biography confirms the 2021 appointment and 2022 election; it still lists her as secretary of state as of this research date.
+
+#### Tags
+#fyp #BlackTikTok #ArkansasHistory #HopeArkansas #VotingRights
+
+---
+
+### T24. URGENT — Raymond P. Miller, first Black UA trustee, would have turned 90 on Thanksgiving
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/35
+
+**URGENT: date-sensitive.** Thursday, November 26, 2026 is Thanksgiving and would have been Raymond P. Miller's 90th birthday (12 days out).
+
+**Hook (spoken):** "The St. Louis Cardinals drafted him. He picked college and then medical school instead — and went on to open what is called Arkansas's first integrated clinic, and to become the first Black trustee of the University of Arkansas. He would have turned 90 on Thanksgiving."
+
+**The story:** Raymond Phillip Miller was born November 26, 1936, in Cotton Plant (Woodruff County), the eldest son of fourteen children in a farming family. He graduated from Cotton Plant Vocational High School in 1955, was drafted by the St. Louis Cardinals, and chose college instead. He entered Arkansas AM&N (now UAPB) on a scholarship to study agriculture, switched to pre-medicine, lost the scholarship, and worked in the cafeteria to pay tuition. He graduated in 1959 and entered the University of Arkansas School of Medicine that fall — more than a decade after Edith Irby (see issue #21) was admitted. The Encyclopedia of Arkansas says that during his admission interview, the white interviewer turned his back to him. In October 1970, Miller and three white colleagues — including his classmate Hoyte Pyle — opened the Little Rock Internal Medicine Clinic, which EOA says is "considered to be the first integrated medical practice in the state." The clinic's rule was that any of the four doctors would see any patient; white patients who asked not to see Miller were told to take the doctor available or go elsewhere. In 1972, Gov. Dale Bumpers appointed him the first African American member of the University of Arkansas Board of Trustees. He served ten years, including a term as chairman in 1981–1982, and worked with Coach Frank Broyles to recruit Black athletes. He died of cancer on August 23, 2005, and is buried in the Arkansas State Veterans Cemetery in North Little Rock. He was posthumously inducted into the Arkansas Black Hall of Fame on October 24, 2026; his children accepted the honor.
+
+#### Why now
+He would have turned 90 on Thanksgiving, November 26, 2026. The Hall of Fame induction was October 24, with a Democrat-Gazette recap on November 1 and a Pine Bluff Commercial recap on October 30.
+
+#### Sources
+- CALS Encyclopedia of Arkansas, "Raymond Phillip Miller (1936–2005)." Last updated June 9, 2026. https://encyclopediaofarkansas.net/entries/raymond-phillip-miller-18516/
+- Helaine Williams, Arkansas Democrat-Gazette, November 1, 2026. https://www.arkansasonline.com/news/2026/nov/01/arkansas-black-hall-of-fame-honors-7-inductees/
+- I.C. Murrell, "Reed, Miller inducted into Arkansas Black Hall of Fame," Pine Bluff Commercial, October 30, 2026. https://www.pbcommercial.com/reed-miller-inducted-into-arkansas-black-hall-of-fame/
+- Talk Business & Politics, September 8, 2026. https://talkbusiness.net/2026/09/arkansas-black-hall-of-fame-announces-2026-inductees/
+
+#### Image lead
+No public-domain photograph is confirmed. Do not generate an AI face. EOA and the induction coverage have photographs credited to their sources; license one or get family permission. A building or marker shot is safer than a face if permission does not come through.
+
+#### Fact conflicts
+- EOA says the Little Rock Internal Medicine Clinic is "considered to be" the first integrated medical practice in the state. Keep that wording.
+- The Pine Bluff Commercial also calls Miller the first Black physician accepted into the internal medicine residency at the University of Arkansas College of Medicine and at the Little Rock Veterans Hospital. EOA does not use those "first" claims. Re-check before putting them in a voiceover.
+- Do not collapse this with the already-filed Edith Irby Jones story (issue #21).
+
+#### Tags
+#fyp #BlackTikTok #ArkansasHistory #UAPB #Thanksgiving
+
+---
+
+### T25. URGENT — Gertrude Hadley Jeannette, from Urbana to Broadway, born 112 years ago on November 28
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/36
+
+**URGENT: date-sensitive.** Saturday, November 28, 2026 is the 112th anniversary of Gertrude Hadley Jeannette's birth (14 days out).
+
+**Hook (spoken):** "She grew up in Urbana, Arkansas, got the first woman's motorcycle license in New York City, drove a cab, and made it to Broadway. Later write-ups called her the city's first woman cab driver. That last part isn't true — and the rest of her story is strong enough without it."
+
+**The story:** Gertrude Hadley was born in Urbana (Union County) on November 28, 1914, to Willis Lawrence Hadley and Salley Gertrude Crawford Hadley. She attended Dunbar High School in Little Rock and had planned to go to Fisk University. In 1934 she eloped to New York City with Joe Jeannette II, a prizefighter. The Encyclopedia of Arkansas says that in 1935 she learned to drive and became the first woman to get a license to drive a motorcycle in New York City. In 1942, during a wartime cab shortage, she became a cab driver. Later sources, including a 2011 New York Daily News headline, called her the city's first woman cab driver; EOA says that honor belongs to Wilma K. Russey. Keep that correction in the script. She studied at the American Negro Theatre, wrote the autobiographical play This Way Forward about sharecropping families in the South, and appeared on Broadway in Lost in the Stars, Amen Corner, and The Great White Hope. In 1979 she founded the HADLEY Players in Harlem. She was inducted into the Arkansas Black Hall of Fame in 1999 and received the Actors' Equity Association's Paul Robeson Award in 2002. She died on April 4, 2018, at 103.
+
+#### Why now
+112th birthday on November 28, 2026, per the Encyclopedia of Arkansas.
+
+#### Sources
+- CALS Encyclopedia of Arkansas, "Gertrude Hadley Jeannette (1914–2018)." Last updated February 9, 2026. https://encyclopediaofarkansas.net/entries/gertrude-hadley-jeannette-7989/
+- Jonathan Wolfe, "Gertrude Jeannette, Actor, Director and Early Female Cabdriver, Dies at 103," New York Times, April 26, 2018. https://www.nytimes.com/2018/04/26/obituaries/gertrude-jeannette-actor-director-and-cabdriver-dies-at-103.html
+- The HistoryMakers, "Gertrude Hadley Jeannette" (cited by EOA). https://www.thehistorymakers.org/biography/gertrude-hadley-jeannette-40
+
+#### Image lead
+No public-domain photograph is confirmed. EOA has a portrait; check the media credit before using it, and do not treat an EOA "courtesy of" image as free. Film and Broadway stills are almost certainly under copyright. Never generate an AI face. A verified photo of Dunbar High School or Urbana, used as place context rather than a stand-in for her face, is a fallback.
+
+#### Fact conflicts
+- "First woman cab driver in New York City" is widely repeated and is incorrect, per EOA, which credits Wilma K. Russey. The safer, sourced claims are: first woman licensed to drive a motorcycle in New York City (1935, per EOA) and a woman who became a cab driver in 1942.
+- Do not use cotton imagery, including stills from Cotton Comes to Harlem, even though that film is sometimes listed among her credits.
+
+#### Tags
+#fyp #BlackTikTok #ArkansasHistory #Broadway #BlackWomen
+
+---
+
+### T26. Frank A. James — Philander Smith sit-in leader and Arkansas's first SNCC representative, inducted into the Arkansas Black Hall of Fame October 24, 2026
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/37
+
+**Hook (spoken):** "Three years after Central High, a Philander Smith student sat down at the Woolworth's lunch counter in downtown Little Rock and would not get up. This fall, Arkansas put him in the Black Hall of Fame."
+
+**The story:** On March 10, 1960, around fifty students from Philander Smith College marched to the F. W. Woolworth's at Fourth and Main in Little Rock and asked for service at the segregated lunch counter — the first sit-in in Arkansas, per the Encyclopedia of Arkansas. Most left when the manager and police asked them to. Five stayed and were arrested: Charles Parker (22), Frank James (21), Vernon Mott (19), Eldridge Davis (19), and Chester Briggs (18). The Little Rock NAACP bailed them out. On March 17, Municipal Court Judge Quinn Glover found them guilty under Arkansas Act 226 of 1959, and each received a $250 fine and a thirty-day jail sentence, both doubled on appeal on April 27. The SNCC Digital Gateway says James later attended SNCC's August 1960 meeting in Atlanta as the first representative from Arkansas, and on August 14 picketed the U.S. Capitol with other SNCC members seeking civil rights legislation. He later returned to Philander Smith to teach mathematics and, in 2011, was honored with a marker on the Arkansas Civil Rights Heritage Trail. Dr. Frank A. James was inducted into the Arkansas Black Hall of Fame on October 24, 2026, at Robinson Center in Little Rock. He is a living person; do not invent later biographical details that were not opened this turn.
+
+#### Why now
+Inducted with the 2026 Arkansas Black Hall of Fame class on October 24; the Democrat-Gazette recap ran November 1. The sit-in anniversary itself is in March, so the Hall of Fame is the timely hook.
+
+#### Sources
+- CALS Encyclopedia of Arkansas, "Sit-ins." Last updated January 30, 2026. https://encyclopediaofarkansas.net/entries/sit-ins-6921/
+- SNCC Digital Gateway, "Frank James." https://snccdigital.org/people/frank-james/
+- Helaine Williams, Arkansas Democrat-Gazette, November 1, 2026. https://www.arkansasonline.com/news/2026/nov/01/arkansas-black-hall-of-fame-honors-7-inductees/
+- Talk Business & Politics, September 8, 2026. https://talkbusiness.net/2026/09/arkansas-black-hall-of-fame-announces-2026-inductees/
+- I.C. Murrell, Pine Bluff Commercial, October 30, 2026. https://www.pbcommercial.com/reed-miller-inducted-into-arkansas-black-hall-of-fame/
+
+#### Image lead
+James is living. Never generate an AI face. No public-domain portrait is confirmed. The 2011 Civil Rights Heritage Trail marker can be filmed with the photographer's permission. Period news photographs of the 1960 sit-in are likely still under copyright; get a license or use a present-day shot of the Fourth and Main site, clearly labeled as today, not 1960.
+
+#### Fact conflicts
+- Do not confuse Frank James with Frank James Lupper. Lupper was arrested at a later sit-in on April 13, 1960, with Thomas B. Robinson; their cases later reached the U.S. Supreme Court after the Civil Rights Act of 1964. James was one of the original five arrested on March 10.
+- The SNCC Digital Gateway page once names "Smith and fifty other Philander Smith students," which appears to be a slip; EOA's March 10 account, with James among the five who stayed, is the version to follow for the first sit-in.
+
+#### Tags
+#fyp #BlackTikTok #ArkansasHistory #CivilRights #PhilanderSmith
+
+---
+
+### T27. "Remember Me" — National Gallery of Art exhibit of early African American photographs, November 7, 2026 through March 14, 2027
+
+Issue: https://github.com/thearkansasecho/buffer-scripts/issues/38
+
+**Hook (spoken):** "A free exhibit that just opened in Washington is built around a Civil War-era tintype that simply says, 'Remember Me, Annie.' Early photographs are one of the few ways many Black families can still see a face."
+
+**The story:** On November 7, 2026, the National Gallery of Art opened "Remember Me: Picturing African Americans in Early Photography." It runs through March 14, 2027, in the West Building, admission is free, and no pass is required. The gallery says the show features about 70 works from its collection, many on view for the first time, of and by Black Americans in the 19th and early 20th centuries, including work by pioneering Black photographers such as James Presley Ball and James Van Der Zee. The title piece is an American 19th-century tintype, "Remember Me, Annie," about 1860, from the Ross J. Kelbaugh Collection. The exhibit itself is a national story. No Arkansas-specific photograph was named on the exhibition page opened this turn, so do not imply Annie, or any other sitter, was from Arkansas. The Echo angle is genealogy: early photographs are often the only surviving likeness of a Black ancestor, and Arkansas researchers can look closer to home in free collections at the Library of Congress and the Central Arkansas Library System while this show is up.
+
+#### Why now
+The exhibit opened Saturday, November 7, 2026 — this week — and remains on view through March 14, 2027.
+
+#### Sources
+- National Gallery of Art, "Remember Me: Picturing African Americans in Early Photography," exhibition page (opened November 14, 2026). Dates: November 7, 2026–March 14, 2027. https://www.nga.gov/exhibitions/remember-me
+- Library of Congress, a starting point for public-domain and rights-cleared historical photographs. https://www.loc.gov/pictures/
+
+#### Image lead
+Do not lift the National Gallery's exhibition images or modern photographs of the objects without the museum's permission. Some 19th-century photographs are in the public domain because of age, but a museum's new scan is not automatically free to use. For an Echo short, use clearly public-domain early photographs from the Library of Congress or the National Archives, credited, or point viewers to the free exhibit rather than reproducing its checklist. Never generate an AI face and pass it off as a historical portrait.
+
+#### Fact conflicts
+- No Arkansas sitter or Arkansas photographer was confirmed on the NGA page. If a later checklist or catalog names one, update this note; until then, keep the Arkansas hook on how to search, not on a claim the show is about Arkansas.
+
+#### Tags
+#fyp #BlackTikTok #Genealogy #BlackHistory #Photography
